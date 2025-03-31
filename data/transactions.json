@@ -1,0 +1,38 @@
+[
+  {
+    "transaction_id": "txn_1001",
+    "amount": 123.45,
+    "timestamp": "2023-03-15T08:30:00.000Z",
+    "merchant": "Amazon",
+    "category": "Shopping",
+    "is_fraud": 0,
+    "is_online": true,
+    "transaction_type": "purchase",
+    "customer_id": "1",
+    "source": "default"
+  },
+  {
+    "transaction_id": "txn_1002",
+    "amount": 45.99,
+    "timestamp": "2023-03-14T15:45:00.000Z",
+    "merchant": "Starbucks",
+    "category": "Food",
+    "is_fraud": 0,
+    "is_online": false,
+    "transaction_type": "purchase",
+    "customer_id": "1",
+    "source": "default"
+  },
+  {
+    "transaction_id": "txn_1003",
+    "amount": 999.99,
+    "timestamp": "2023-03-13T12:20:00.000Z",
+    "merchant": "Fake Electronics",
+    "category": "Electronics",
+    "is_fraud": 1,
+    "is_online": true,
+    "transaction_type": "purchase",
+    "customer_id": "1",
+    "source": "default"
+  }
+] 

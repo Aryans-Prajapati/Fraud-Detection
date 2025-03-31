@@ -1,0 +1,31 @@
+transaction_id,timestamp,amount,merchant,category,is_fraud,transaction_type,customer_id,source
+1001,2025-03-01T10:30:00,125.60,Amazon,Shopping,0,online,1,credit_card
+1002,2025-03-01T11:45:00,1299.99,Electronics Store,Electronics,0,in_store,1,credit_card
+1003,2025-03-01T12:15:00,19.99,Fast Food Chain,Food,0,in_store,2,debit_card
+1004,2025-03-01T14:20:00,5000.00,Unknown Merchant,Other,1,online,1,credit_card
+1005,2025-03-02T09:10:00,89.50,Grocery Store,Groceries,0,in_store,4,debit_card
+1006,2025-03-02T16:30:00,300.00,Gas Station,Transportation,0,in_store,2,credit_card
+1007,2025-03-03T01:15:00,3499.99,Tech Shop Online,Electronics,1,online,1,credit_card
+1008,2025-03-03T10:25:00,75.20,Pharmacy,Health,0,in_store,6,debit_card
+1009,2025-03-03T18:45:00,129.95,Clothing Store,Shopping,0,in_store,7,credit_card
+1010,2025-03-04T11:30:00,1099.00,Unknown Retailer,Other,1,online,1,credit_card
+1011,2025-03-04T15:20:00,45.75,Restaurant,Food,0,in_store,9,debit_card
+1012,2025-03-05T09:05:00,25.99,Coffee Shop,Food,0,in_store,10,debit_card
+1013,2025-03-05T14:40:00,4999.99,Foreign IP Address,Other,1,online,11,credit_card
+1014,2025-03-06T12:10:00,199.50,Hardware Store,Home,0,in_store,12,credit_card
+1015,2025-03-06T16:35:00,59.99,Book Store,Entertainment,0,online,13,debit_card
+1016,2025-03-07T00:30:00,2500.00,Money Transfer,Other,1,online,14,credit_card
+1017,2025-03-07T10:15:00,120.00,Utility Company,Bills,0,online,15,debit_card
+1018,2025-03-08T11:45:00,89.75,Sporting Goods,Shopping,0,in_store,16,credit_card
+1019,2025-03-08T20:05:00,999.99,Unusual Location,Electronics,1,online,17,credit_card
+1020,2025-03-09T14:20:00,35.50,Fast Food Chain,Food,0,in_store,18,debit_card
+1021,2025-03-09T17:30:00,349.99,Department Store,Shopping,0,in_store,19,credit_card
+1022,2025-03-10T02:15:00,1450.00,Unknown Merchant,Other,1,online,20,credit_card
+1023,2025-03-10T09:40:00,65.25,Pharmacy,Health,0,in_store,1,debit_card
+1024,2025-03-10T13:10:00,189.99,Electronics Store,Electronics,0,in_store,2,credit_card
+1025,2025-03-11T10:30:00,3000.00,Multiple Locations,Other,1,online,3,credit_card
+1026,2025-03-11T15:45:00,29.99,Movie Theater,Entertainment,0,in_store,4,debit_card
+1027,2025-03-12T11:20:00,75.50,Restaurant,Food,0,in_store,5,credit_card
+1028,2025-03-12T19:30:00,2399.99,Foreign Transaction,Electronics,1,online,6,credit_card
+1029,2025-03-13T08:15:00,45.00,Gas Station,Transportation,0,in_store,7,debit_card
+1030,2025-03-13T14:50:00,129.95,Department Store,Shopping,0,in_store,8,credit_card 

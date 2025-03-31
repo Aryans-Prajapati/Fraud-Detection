@@ -1,0 +1,45 @@
+{
+  "name": "fraud-detect-web",
+  "version": "1.0.0",
+  "description": "Financial Fraud Detection Web Application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "fraud detection",
+    "ai",
+    "financial",
+    "nextjs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@heroicons/react": "^1.0.6",
+    "@tailwindcss/forms": "^0.5.10",
+    "autoprefixer": "^10.4.21",
+    "chart.js": "^3.9.1",
+    "csv-parser": "^3.0.0",
+    "daisyui": "^3.9.4",
+    "js-cookie": "^3.0.5",
+    "ml-matrix": "^6.10.4",
+    "ml-regression": "^5.0.0",
+    "next": "^12.3.4",
+    "postcss": "^8.5.3",
+    "react": "^17.0.2",
+    "react-chartjs-2": "^4.3.1",
+    "react-dom": "^17.0.2",
+    "tailwindcss": "^3.4.17",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/js-cookie": "^3.0.3",
+    "@types/node": "^16.18.82",
+    "@types/react": "^17.0.74",
+    "@types/react-dom": "^17.0.25",
+    "typescript": "^4.9.5"
+  }
+}

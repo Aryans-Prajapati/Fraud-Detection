@@ -1,0 +1,149 @@
+[
+  {
+    "id": "admin1",
+    "email": "admin@frauddetect.com",
+    "password": "admin123",
+    "name": "Admin User",
+    "role": "admin"
+  },
+  {
+    "id": "1",
+    "email": "user1@example.com",
+    "password": "password1",
+    "name": "John Doe",
+    "role": "user"
+  },
+  {
+    "id": "2",
+    "email": "user2@example.com",
+    "password": "password2",
+    "name": "Jane Smith",
+    "role": "user"
+  },
+  {
+    "id": "3",
+    "email": "user3@example.com",
+    "password": "password3",
+    "name": "Michael Brown",
+    "role": "user"
+  },
+  {
+    "id": "4",
+    "email": "user4@example.com",
+    "password": "password4",
+    "name": "Emily Johnson",
+    "role": "user"
+  },
+  {
+    "id": "5",
+    "email": "user5@example.com",
+    "password": "password5",
+    "name": "David Wilson",
+    "role": "user"
+  },
+  {
+    "id": "6",
+    "email": "user6@example.com",
+    "password": "password6",
+    "name": "Sarah Davis",
+    "role": "user"
+  },
+  {
+    "id": "7",
+    "email": "user7@example.com",
+    "password": "password7",
+    "name": "Robert Miller",
+    "role": "user"
+  },
+  {
+    "id": "8",
+    "email": "user8@example.com",
+    "password": "password8",
+    "name": "Jennifer Garcia",
+    "role": "user"
+  },
+  {
+    "id": "9",
+    "email": "user9@example.com",
+    "password": "password9",
+    "name": "Thomas Rodriguez",
+    "role": "user"
+  },
+  {
+    "id": "10",
+    "email": "user10@example.com",
+    "password": "password10",
+    "name": "Lisa Martinez",
+    "role": "user"
+  },
+  {
+    "id": "11",
+    "email": "user11@example.com",
+    "password": "password11",
+    "name": "Daniel Anderson",
+    "role": "user"
+  },
+  {
+    "id": "12",
+    "email": "user12@example.com",
+    "password": "password12",
+    "name": "Jessica Taylor",
+    "role": "user"
+  },
+  {
+    "id": "13",
+    "email": "user13@example.com",
+    "password": "password13",
+    "name": "Christopher Thomas",
+    "role": "user"
+  },
+  {
+    "id": "14",
+    "email": "user14@example.com",
+    "password": "password14",
+    "name": "Michelle Hernandez",
+    "role": "user"
+  },
+  {
+    "id": "15",
+    "email": "user15@example.com",
+    "password": "password15",
+    "name": "Andrew Moore",
+    "role": "user"
+  },
+  {
+    "id": "16",
+    "email": "user16@example.com",
+    "password": "password16",
+    "name": "Nicole Jackson",
+    "role": "user"
+  },
+  {
+    "id": "17",
+    "email": "user17@example.com",
+    "password": "password17",
+    "name": "Matthew Martin",
+    "role": "user"
+  },
+  {
+    "id": "18",
+    "email": "user18@example.com",
+    "password": "password18",
+    "name": "Amanda Thompson",
+    "role": "user"
+  },
+  {
+    "id": "19",
+    "email": "user19@example.com",
+    "password": "password19",
+    "name": "Ryan White",
+    "role": "user"
+  },
+  {
+    "id": "20",
+    "email": "user20@example.com",
+    "password": "password20",
+    "name": "Stephanie Harris",
+    "role": "user"
+  }
+] 
